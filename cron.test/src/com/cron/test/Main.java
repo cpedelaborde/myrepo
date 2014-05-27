@@ -23,6 +23,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// Prepares the task.
+		// hello world!
 		MyTask task = new MyTask();
 		// Creates the scheduler.
 		Scheduler scheduler = new Scheduler();
