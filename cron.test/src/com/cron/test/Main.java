@@ -25,6 +25,8 @@ public class Main {
 		// Prepares the task.
 		// hello world!
 		// hello world 2
+		// hello world 3 -- 1.0.3
+		
 		MyTask task = new MyTask();
 		// Creates the scheduler.
 		Scheduler scheduler = new Scheduler();
